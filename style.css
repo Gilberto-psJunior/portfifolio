@@ -1,0 +1,68 @@
+
+.coluna1{
+    background-color: rgb(91, 44, 111);
+    
+}
+.avatar{
+    
+    border-style: double;
+    border-width: 10px;
+    border-color: rgb(0, 0, 0);
+}
+body{
+    max-height: 100vh;
+
+}
+.infos{
+    background-image: linear-gradient(rgb(91, 44, 111), rgb(255, 255, 255));
+    
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.listas1{
+    list-style: none;
+}
+.nome{
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+
+}
+.nome{
+    font-size: 400%;
+}
+.nome h1{
+    color: black;
+    font-weight: bolder;
+    
+    
+}
+.nome span{
+    color: rgb(91, 44, 111);
+
+}
+
+
+.principal{
+    height: 100vh;
+    width: 100vw;
+}
+img{
+    border-radius: 100%;
+}
+email{
+    color: blueviolet;
+}
+a.icon{
+    height: 60px;
+    width: 80px;
+    border-radius: 100%;
+    line-height: 50px;
+    text-decoration: none;
+    text-align: center;
+    background-color:#000;
+    color: white ;
+    border: 2px solid #6A5ACD;
+    font-size: 30px;
+    
+}
